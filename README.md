@@ -1,2 +1,2 @@
-# Power BI Projects
+# Data Analysis Projects
 
